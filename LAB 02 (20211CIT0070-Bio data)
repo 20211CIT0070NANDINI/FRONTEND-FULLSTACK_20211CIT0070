@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Biodata</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ecedb1; /* Changed background color to yellow */
+}
+header, footer {
+    background-color: #150631; /* Changed header and footer background color to bluish dark purple */
+    color: #fff; /* Added text color for header and footer */
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    background-color: #150631; /* Changed navigation background color to bluish dark purple */
+    color: #fff; /* Added text color for navigation */
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: #fff; /* Added text color for navigation links */
+    text-decoration: none;
+    margin: 0 10px;
+}
+section {
+    padding: 20px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.image-container {
+    float: right; /* Changed float to right */
+    margin-left: 20px; /* Added margin for spacing */
+}
+.animated-image {
+    width: 300px; /* Adjusted width to 200px */
+    height: auto; /* Added to maintain aspect ratio */
+}
+.about-me {
+    text-align: left; /* Align the text to the left */
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Bio Data</h1>
+<h2>Nandini R</h2>
+</header>
+<section>
+<div class="image-container">
+    <img src="https://i.imgur.com/up1twly.jpg" alt="Description of the image" class="animated-image">
+</div>
+<div class="about-me">
+    <h2>About Me</h2>
+    <p>I'm an Indian Classical Dancer</p>
+    <p>My Journey started at the age of 6</p>
+    <p>I have completed my Juniors and diploma Exams and currently pursuing my seniorexams</p>
+    <p>I am guided under GURU Vidushi Akshaya</p>
+    <p>To visit my LinkedIn Profile, click <a href="https://www.linkedin.com/in/nandini-r-b85396298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">here</a>.</p>
+</div>
+</section>
+<section>
+<h2>Personal Information</h2>
+<ul>
+<li> I am a banglorian</li>
+<li> Completed my schooling at MAITHRY VIDYANINKETHAN </li>
+<li> Completed My Pre University education at CMR NATIONAL PU</li>
+<li> Currently Pursuing my bachelor's degree at PRESIDENCY UNIVERSITY</li>
+</ul>
+</section>
+<section>
+<h4>Contact : 9988776655</h4>
+</section>
+<footer>
+<p>&copy; 2024 Nandini R. All rights reserved.</p>
+<a href="#">Profile</a>
+<a href="#">Social Media</a>
+</footer>150631
+</body>
+</html>
